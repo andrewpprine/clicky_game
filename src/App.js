@@ -23,6 +23,9 @@ class App extends Component {
           <b>Happy clicking, and try not to get too hungry.</b>
         </p>
       </div>
+      <div id="pictures">
+
+      </div>
     );
   }
 }
