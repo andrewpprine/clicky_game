@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "food1",
+    "image": "https://i.postimg.cc/jqB5Dwnc/burrito.jpg"
+  },
+  {
+    "id": 2,
+    "name": "food2",
+    "image": "https://i.postimg.cc/VN7smdcj/cheeseburger.jpg"
+  },
+  {
+    "id": 3,
+    "name": "food3",
+    "image": "https://i.postimg.cc/qB6BHJD3/friedchicken.jpg"
+  },
+  {
+    "id": 4,
+    "name": "food4",
+    "image": "https://i.postimg.cc/wTJBLqhp/hotdog.jpg"
+  },
+  {
+    "id": 5,
+    "name": "food5",
+    "image": "https://i.postimg.cc/sgrgJkcZ/icecream.jpgf"
+  },
+  {
+    "id": 6,
+    "name": "food6",
+    "image": "https://i.postimg.cc/GmxhgX7g/macncheese.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Steve7",
+    "image": "https://i.postimg.cc/X7MjVRtD/pancakes.jpg"
+  },
+  {
+    "id": 8,
+    "name": "food8",
+    "image": "https://i.postimg.cc/Ls44cjG9/pizza.jpg"
+  },
+  {
+    "id": 9,
+    "name": "food9",
+    "image": "https://i.postimg.cc/k4znRzGG/potato.jpg"
+  },
+  {
+    "id": 10,
+    "name": "food10",
+    "image": "https://i.postimg.cc/WbM2t9vp/ramen.jpg"
+  },
+  {
+    "id": 11,
+    "name": "food11",
+    "image": "https://i.postimg.cc/HxVYxdpF/salad.jpg"
+  },
+  {
+    "id": 12,
+    "name": "food12",
+    "image": "https://i.postimg.cc/NFXQ6D24/spaghetti.jpg"
+  }
+]
